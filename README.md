@@ -1,0 +1,1 @@
+Has a JSON file that I use for my VS-code settings
